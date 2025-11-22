@@ -1,0 +1,20 @@
+{
+  "name": "chatify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://%3CYOUR_GITHUB_TOKEN%3E@github.com/shashiraj2023/Chatify_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashiraj2023/Chatify_app/issues"
+  },
+  "homepage": "https://github.com/shashiraj2023/Chatify_app#readme",
+  "description": ""
+}
